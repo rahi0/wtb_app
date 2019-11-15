@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411359499855",
+    "firebase_url": "https://wtbapp-2fb04.firebaseio.com",
+    "project_id": "wtbapp-2fb04",
+    "storage_bucket": "wtbapp-2fb04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411359499855:android:79e81c5f16df19b9a07c3a",
+        "android_client_info": {
+          "package_name": "com.app.wtb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411359499855-u1bi7d197ri1nd4apj1prv16qh5qjgt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN4BMZ9fCSC1RXqLVqAsh2IXg3kC9T1rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411359499855-u1bi7d197ri1nd4apj1prv16qh5qjgt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
